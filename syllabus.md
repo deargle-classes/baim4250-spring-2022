@@ -1,12 +1,12 @@
 ---
-title: Syllabus for Information Security Management
+title: Syllabus
 school: CU
 year: "2022"
 semester: spring
 course_name: Information Security Management
 coursenum:
  - BAIM-4250-001
-slack: https://infosecmanagementf22.slack.com
+slack: https://infosecmanagements22.slack.com
 ---
 
 <div><strong><em>Sections</em></strong></div>
