@@ -20,7 +20,7 @@ Instructor
 : Dave Eargle  ([contact](<mailto:David.Eargle@colorado.edu>))
 
 Class
-: See [my.cu.edu](https://buffportal.colorado.edu/) for schedule
+: Thursdays, 2:00pm - 4:45pm
 
 Office Hours
 : See canvas
@@ -86,8 +86,10 @@ We will use Google Cloud Platform (GCP) to run tools and virtual machines
 necessary to complete assignments. New accounts on GCP get a $300 credit. You
 should be able to complete this class without going over that cost. However, you
 must supply a credit card number to receive the $300 credit. Separately from
-this, you will also need to purchase access to lab materials via the
-[security-assignments.com storefront](https://security-assignments.com/store).
+this, you will also need access to google cloud lab materials hosted on
+[security-assignments.com](https://security-assignments.com). Because I am one
+of the owners of security-assignments.com, you can get free access to the
+material. See Canvas for how to do so.
 
 **You do not need to install anything on your personal computer to complete class assignments. You only require a stable internet connection.**
 You will launch a virtual machine instance on GCP from which you can complete class
